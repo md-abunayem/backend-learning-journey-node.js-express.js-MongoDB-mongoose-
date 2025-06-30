@@ -1,0 +1,3 @@
+node_module
+.env   
+# env--->> sensitive(store key, password or others sensotive info)
