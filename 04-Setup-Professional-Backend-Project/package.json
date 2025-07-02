@@ -1,0 +1,11 @@
+{
+  "name": "04-setup-professional-backend-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Abu Nayem",
+  "license": "ISC",
+  "description": ""
+}
