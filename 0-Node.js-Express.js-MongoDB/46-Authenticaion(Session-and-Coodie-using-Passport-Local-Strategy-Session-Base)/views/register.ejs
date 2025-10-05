@@ -1,0 +1,10 @@
+<%- include("layout/header.ejs") %>
+<main>
+    <h2>Register Form</h2>
+    <form action="/register" method="POST">
+        <input type="email" name="email" id="email" placeholder="Email" required><br><br>
+        <input type="password" name="password" id="password" placeholder="Password" required><br><br>
+        <button type="submit">Register</button>
+    </form>
+</main>
+<%- include("layout/footer.ejs") %>

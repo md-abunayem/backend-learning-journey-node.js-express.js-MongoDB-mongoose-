@@ -1,0 +1,1 @@
+Do not push .env file to the git and use gitignore to do not push dot env
